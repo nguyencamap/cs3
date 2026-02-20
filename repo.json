@@ -1,8 +1,8 @@
 {
-    "name": "Yanhh3D Repository",
-    "description": "Kho lưu trữ cá nhân cho phim Yanhh3D",
-    "manifestVersion": 1,
-    "pluginLists": [
-      "https://gitlab.com/YOUR_GITLAB_USERNAME/yanhh3d-plugin/-/raw/main/plugins.json"
-    ]
+  "name": "Yanhh3D Repository",
+  "description": "Kho lưu trữ cá nhân cho phim Yanhh3D",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://gitlab.com/nguyencamap-group/yanhh3d-plugin/-/raw/main/plugins.json"
+  ]
 }
