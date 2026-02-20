@@ -1,0 +1,20 @@
+[
+    {
+        "iconUrl": "",
+        "apiVersion": 1,
+        "repositoryUrl": "https://gitlab.com/YOUR_GITLAB_USERNAME/yanhh3d-plugin",
+        "fileSize": 11205,
+        "status": 1,
+        "authors": [
+            "dmin"
+        ],
+        "tvTypes": [
+            "Anime"
+        ],
+        "version": 1,
+        "internalName": "Yanhh3DProvider",
+        "description": "Mở rộng xem phim phụ đề từ Yanhh3D.to",
+        "url": "https://gitlab.com/YOUR_GITLAB_USERNAME/yanhh3d-plugin/-/raw/main/Yanhh3DProvider.cs3",
+        "name": "Yanhh3DProvider"
+    }
+]
