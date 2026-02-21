@@ -16,5 +16,23 @@
         "description": "Mở rộng xem phim phụ đề từ Yanhh3D.to",
         "url": "https://raw.githubusercontent.com/nguyencamap/cs3/main/Yanhh3DProvider.cs3",
         "name": "Yanhh3DProvider"
+    },
+    {
+        "iconUrl": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/nguyencamap/cs3",
+        "fileSize": 14080,
+        "status": 1,
+        "authors": [
+            "GithubSync"
+        ],
+        "tvTypes": [
+            "Others"
+        ],
+        "version": 1,
+        "internalName": "GithubSync",
+        "description": "Đồng bộ dữ liệu watchlist & tiến độ xem qua PHP host riêng",
+        "url": "https://raw.githubusercontent.com/nguyencamap/cs3/main/GithubSync.cs3",
+        "name": "⚙️ Host Sync Settings"
     }
 ]
