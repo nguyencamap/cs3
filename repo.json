@@ -3,6 +3,6 @@
   "description": "Kho lưu trữ cá nhân cho phim Yanhh3D",
   "manifestVersion": 1,
   "pluginLists": [
-    "https://gitlab.com/nguyencamap-group/yanhh3d-plugin/-/raw/main/plugins.json"
+    "https://raw.githubusercontent.com/nguyencamap/cs3/main/plugins.json"
   ]
 }
