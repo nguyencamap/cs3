@@ -1,5 +1,24 @@
 [
     {
+        "iconUrl": "https://www.motchill46.com/favicon.ico",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/nguyencamap/cs3",
+        "fileSize": 20138,
+        "status": 1,
+        "authors": [
+            "dmin"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 1,
+        "internalName": "Motchill46Provider",
+        "description": "Xem phim online miễn phí từ Motchill46",
+        "url": "https://raw.githubusercontent.com/nguyencamap/cs3/main/Motchill46Provider.cs3",
+        "name": "🎬 Motchill46"
+    },
+    {
         "iconUrl": "",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/nguyencamap/cs3",
